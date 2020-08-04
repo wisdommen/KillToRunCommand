@@ -1,0 +1,6 @@
+name: KillToRunCommand
+version: ${project.version}
+main: com.minecraft.plugins.killtoruncommand.KillToRunCommandMain
+api-version: 1.15
+prefix: [KillToRunCommand]
+authors: [wisdomme]
